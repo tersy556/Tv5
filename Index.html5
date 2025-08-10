@@ -1,0 +1,261 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <title>optavia essentials</title>
+    <link rel="stylesheet" href="syle.css" >
+</head> 
+<body> 
+     <header> 
+           <h1>OPTAVIA ESENTIALS</h1>           
+     </header> 
+     <main> 
+            <section>
+
+<div class="profil">
+  <h1>Tiffany underwood Howard</h1>
+  <p>Thank you for chosing us for your optavia fuelings need </p>
+  <img src="profile.jpg" alt="photo de profile">
+</div>
+
+<style>
+  .profil {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .profil h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .profil p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+
+  .profil img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+</style> 
+            <p>Email: <a href="mailto:.com">Tiffany underwood Howard.com</a></p>
+            <p>Phone: 123-456-7890</p>
+            <p>Address: 123 Main St, Anytown, USA</p>
+    
+               <div class="about-us">
+               <img src="icon.png" alt="About Us Icon">
+               <div class="about-us-content">
+               <h2>About Us</h2>
+               <p>Welcome to optavia essentials, your premier destination for Optavia Fuelings! We are dedicated to helping you achieve your health and wellness goals with our wide selection of delicious and nutritious Optavia Fuelings.</p>
+               <p>Our mission is to provide high-quality Optavia Fuelings that fuel your body and support your weight loss journey. We believe in the power of healthy eating and are committed to helping you reach your full potential.</p>
+               <p>What We Offer:</p>
+               <ul>
+               <li>A wide variety of Optavia Fuelings, including shakes, soups, bars, and more</li>
+               <li>Convenient shopping experience, with options for local pickup or shipping</li>
+               <li>Knowledgeable and friendly customer service team</li>
+               </ul>
+               <p>Why Choose Us?</p>
+               <ul>
+               <li>We are an authorized Optavia retailer, ensuring that all products are genuine and of the highest quality</li>
+               <li>Our team is passionate about health and wellness, and we're here to support you every step of the way</li>
+               <li>We offer competitive pricing and regular promotions to help you stay on track with your health goals</li>
+               </ul>
+               </div>
+               </div>
+               </p>
+            </div> 
+             <p>Thanks for chosing us </p> 
+           </div> 
+           </section> 
+     </main>
+     <form class="search-form"> 
+       <input type="search" 
+       id"search bar" name="search"
+       placeholder="search..."
+       autocomplete="on" autofocus> 
+            <button type="submit">search</button>
+            </form> 
+          <p></p> 
+        
+         <img src="product.jpg" alt="product image" width="300"
+         height="200">
+        
+          
+          <h2>Product Bundle for Sale</h2>
+          
+          <p>Description:</p>
+          <ul>
+          <li>24-box bundle of assorted treats and snacks</li>
+          <li>Each box is $18</li>
+          <li>Can be sold separately or as a bundle</li>
+          <li>Includes:
+          <ul>
+          <li>Creamy Chocolate shakes (1 box)</li>
+          <li>Pudding mix (2 boxes)</li>
+          <li>Brownie mix (2 boxes)</li>
+          <li>Blondie mix (1 box)</li>
+          <li>Apple and cinnamon oatmeal (1 box)</li>
+          <li>Maple brown sugar oatmeal (1 box)</li>
+          <li>Macchiato shakes (2 boxes)</li>
+          <li>Vanilla shakes (1 box)</li>
+          <li>Zesty lemon bars (2 boxes)</li>
+          <li>Rasin oat cinnamon crisp bar (2 boxes)</li>
+          <li>Drizzled bar (2 boxes)</li>
+          <li>Creamy Double PB bars (1 box)</li>
+          <li>PB and chocolate chips bar (2 boxes)</li>
+          <li>Granolas bar (1 box)</li>
+          <li>Campfire s'more bar (1 box)</li>
+          <li>Mocha shakes (2 boxes)</li>
+          <li>Noodle soup mix (1 box)</li>
+          <li>Velvety hot chocolate (2 boxes)</li>
+          </ul>
+          </li>
+          </ul>
+          
+          <p>Pricing:</p>
+          <ul>
+          <li>Each box: $18</li>
+          <li>Bundle of 24 boxes: [Insert bundle price, if different from individual box price]</li>
+          </ul>
+          
+          <p>Shipping and Pickup:</p>
+          <ul>
+          <li>Willing to ship or offer local pickup</li>
+          </ul>  
+  <form>   
+ <style>
+ /* Add some basic styling */
+ body {
+ font-family: Arial, sans-serif;
+ }
+ label {
+ display: block;
+ margin-bottom: 10px;
+ }
+ input[type="number"] {
+ width: 50px;
+ }
+ </style>
+ <body>
+ <h1>Payment Form</h1>
+ <form id="payment-form">
+ <h2>Products</h2>
+ <label for="product1">Creamy Chocolate Shakes (1 box) - $18</label>
+ <input type="number" id="product1-quantity" value="0">
+ <br>
+ <label for="product2">Pudding Mix (2 boxes) - $36</label>
+ <input type="number" id="product2-quantity" value="0">
+ <br>
+ <label for="product3">Brownie Mix (2 boxes) - $36</label>
+ <input type="number" id="product3-quantity" value="0">
+ <br>
+ <label for="product4">Blondie Mix (1 box) - $18</label>
+ <input type="number" id="product4-quantity" value="0">
+ <br>
+ <label for="product5">Apple and Cinnamon Oatmeal (1 box) - $18</label>
+ <input type="number" id="product5-quantity" value="0">
+ <br>
+ <label for="product6">Maple Brown Sugar Oatmeal (1 box) - $18</label>
+ <input type="number" id="product6-quantity" value="0">
+ <br>
+ <label for="product7">Macchiato Shakes (2 boxes) - $36</label>
+ <input type="number" id="product7-quantity" value="0">
+ <br>
+ <label for="product8">Vanilla Shakes (1 box) - $18</label>
+ <input type="number" id="product8-quantity" value="0">
+ <br>
+ <label for="product9">Zesty Lemon Bars (2 boxes) - $36</label>
+ <input type="number" id="product9-quantity" value="0">
+ <br>
+ <label for="product10">Raisin Oat Cinnamon Crisp Bar (2 boxes) - $36</label>
+ <input type="number" id="product10-quantity" value="0">
+ <br>
+ <label for="product11">Drizzled Bar (2 boxes) - $36</label>
+ <input type="number" id="product11-quantity" value="0">
+ <br>
+ <label for="product12">Creamy Double PB Bars (1 box) - $18</label>
+ <input type="number" id="product12-quantity" value="0">
+ <br>
+ <label for="product13">PB and Chocolate Chips Bar (2 boxes) - $36</label>
+ <input type="number" id="product13-quantity" value="0">
+ <br>
+ <label for="product14">Granola Bar (1 box) - $18</label>
+ <input type="number" id="product14-quantity" value="0">
+ <br>
+ <label for="product15">Campfire S'more Bar (1 box) - $18</label>
+ <input type="number" id="product15-quantity" value="0">
+ <br>
+ <label for="product16">Mocha Shakes (2 boxes) - $36</label>
+ <input type="number" id="product16-quantity" value="0">
+ <br>
+ <label for="product17">Noodle Soup Mix (1 box) - $18</label>
+ <input type="number" id="product17-quantity" value="0">
+ <br>
+ <label for="product18">Velvety Hot Chocolate (2 boxes) - $36</label>
+ <input type="number" id="product18-quantity" value="0">
+ <br>
+ <h2>Payment Method</h2>
+ <select id="payment-method">
+ <option value="chime">Chime</option>
+ <option value="apple-pay">Apple Pay</option>
+ <option value="zelle">Zelle</option>
+ <option value="cash-app">Cash App</option>
+ </select> 
+ <br><br>  
+ <labelfor="amount">Amount:</label>
+ <input type="number" id="amount" name="amount" required>
+ <br><br>
+ <label for="email-phone">Email or Phone Number:</label>
+ <input type="text" id="email-phone" name="email-phone" required>
+ <br><br>
+ <input type="submit" value="Make Payment">
+ </form> 
+</labelfor> 
+</body> 
+</p> 
+<footer>
+  <p>
+  <form id="comment-form">
+    <label for="name">Name :</label>
+    <input type="text" id="name" name="name"><br><br>
+    <label for="email">Email :</label>
+    <input type="email" id="email" name="email"><br><br>
+    <label for="comment">Comment :</label>
+    <textarea id="comment" name="comment"></textarea><br><br>
+    <button type="submit">Publish comment</button>
+  </form>
+  <div id="comment-list"></div>
+
+  <script>
+    const commentForm = document.getElementById('comment-form');
+
+    commentForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const name = document.getElementById('name').value;
+      const email = document.getElementById('email').value;
+      const comment = document.getElementById('comment').value;
+      
+      // Stocker le commentaire dans un tableau
+      const comments = [];
+      comments.push({
+        name: name,
+        email: email,
+        comment: comment,
+        date: new Date().toLocaleDateString()
+      });
+      
+      // Publier le commentaire
+      const commentList = document.getElementById('comment-list');
+      const commentHTML = `
+        <p>Name: ${name}</p>
+        <p>Email : ${email}</p>
+</p> 
+<footer> 
+ 
+      
